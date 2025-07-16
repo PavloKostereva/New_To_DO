@@ -1,7 +1,5 @@
 # To-Do Lists Додаток
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 Додаток для керування списками завдань з можливістю спільної роботи.
 
 ## Особливості
